@@ -1,0 +1,13 @@
+E:\processing  .NET Core\Regular expression\bin\Debug\netcoreapp3.1\Regular expression.exe
+E:\processing  .NET Core\Regular expression\bin\Debug\netcoreapp3.1\Regular expression.deps.json
+E:\processing  .NET Core\Regular expression\bin\Debug\netcoreapp3.1\Regular expression.runtimeconfig.json
+E:\processing  .NET Core\Regular expression\bin\Debug\netcoreapp3.1\Regular expression.runtimeconfig.dev.json
+E:\processing  .NET Core\Regular expression\bin\Debug\netcoreapp3.1\Regular expression.dll
+E:\processing  .NET Core\Regular expression\bin\Debug\netcoreapp3.1\Regular expression.pdb
+E:\processing  .NET Core\Regular expression\obj\Debug\netcoreapp3.1\Regular expression.AssemblyInfoInputs.cache
+E:\processing  .NET Core\Regular expression\obj\Debug\netcoreapp3.1\Regular expression.AssemblyInfo.cs
+E:\processing  .NET Core\Regular expression\obj\Debug\netcoreapp3.1\Regular expression.csproj.CoreCompileInputs.cache
+E:\processing  .NET Core\Regular expression\obj\Debug\netcoreapp3.1\Regular expression.dll
+E:\processing  .NET Core\Regular expression\obj\Debug\netcoreapp3.1\Regular expression.pdb
+E:\processing  .NET Core\Regular expression\obj\Debug\netcoreapp3.1\Regular expression.genruntimeconfig.cache
+E:\processing  .NET Core\Regular expression\obj\Debug\netcoreapp3.1\Regular expression.csprojAssemblyReference.cache

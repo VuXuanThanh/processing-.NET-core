@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "processing  .NET Core", "processing  .NET Core\processing  .NET Core.csproj", "{BD088A81-3BE7-43D0-A9C9-F4DAEFE5BD08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regular expression", "Regular expression\Regular expression.csproj", "{350A38CD-E89F-40D2-BDF5-3903F27D02D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD088A81-3BE7-43D0-A9C9-F4DAEFE5BD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD088A81-3BE7-43D0-A9C9-F4DAEFE5BD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD088A81-3BE7-43D0-A9C9-F4DAEFE5BD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD088A81-3BE7-43D0-A9C9-F4DAEFE5BD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350A38CD-E89F-40D2-BDF5-3903F27D02D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350A38CD-E89F-40D2-BDF5-3903F27D02D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350A38CD-E89F-40D2-BDF5-3903F27D02D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350A38CD-E89F-40D2-BDF5-3903F27D02D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD7BD6A-DF8B-49AC-A747-98D9AC933017}
+	EndGlobalSection
+EndGlobal
