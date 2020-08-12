@@ -1,0 +1,12 @@
+E:\processing-.NET-core\Promote\Collection_Stack\bin\Debug\netcoreapp3.1\Collection_Stack.exe
+E:\processing-.NET-core\Promote\Collection_Stack\bin\Debug\netcoreapp3.1\Collection_Stack.deps.json
+E:\processing-.NET-core\Promote\Collection_Stack\bin\Debug\netcoreapp3.1\Collection_Stack.runtimeconfig.json
+E:\processing-.NET-core\Promote\Collection_Stack\bin\Debug\netcoreapp3.1\Collection_Stack.runtimeconfig.dev.json
+E:\processing-.NET-core\Promote\Collection_Stack\bin\Debug\netcoreapp3.1\Collection_Stack.dll
+E:\processing-.NET-core\Promote\Collection_Stack\bin\Debug\netcoreapp3.1\Collection_Stack.pdb
+E:\processing-.NET-core\Promote\Collection_Stack\obj\Debug\netcoreapp3.1\Collection_Stack.AssemblyInfoInputs.cache
+E:\processing-.NET-core\Promote\Collection_Stack\obj\Debug\netcoreapp3.1\Collection_Stack.AssemblyInfo.cs
+E:\processing-.NET-core\Promote\Collection_Stack\obj\Debug\netcoreapp3.1\Collection_Stack.csproj.CoreCompileInputs.cache
+E:\processing-.NET-core\Promote\Collection_Stack\obj\Debug\netcoreapp3.1\Collection_Stack.dll
+E:\processing-.NET-core\Promote\Collection_Stack\obj\Debug\netcoreapp3.1\Collection_Stack.pdb
+E:\processing-.NET-core\Promote\Collection_Stack\obj\Debug\netcoreapp3.1\Collection_Stack.genruntimeconfig.cache

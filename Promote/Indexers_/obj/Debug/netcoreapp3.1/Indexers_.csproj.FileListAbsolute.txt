@@ -1,0 +1,13 @@
+E:\processing-.NET-core\Promote\Indexers_\bin\Debug\netcoreapp3.1\Indexers_.exe
+E:\processing-.NET-core\Promote\Indexers_\bin\Debug\netcoreapp3.1\Indexers_.deps.json
+E:\processing-.NET-core\Promote\Indexers_\bin\Debug\netcoreapp3.1\Indexers_.runtimeconfig.json
+E:\processing-.NET-core\Promote\Indexers_\bin\Debug\netcoreapp3.1\Indexers_.runtimeconfig.dev.json
+E:\processing-.NET-core\Promote\Indexers_\bin\Debug\netcoreapp3.1\Indexers_.dll
+E:\processing-.NET-core\Promote\Indexers_\bin\Debug\netcoreapp3.1\Indexers_.pdb
+E:\processing-.NET-core\Promote\Indexers_\obj\Debug\netcoreapp3.1\Indexers_.csprojAssemblyReference.cache
+E:\processing-.NET-core\Promote\Indexers_\obj\Debug\netcoreapp3.1\Indexers_.AssemblyInfoInputs.cache
+E:\processing-.NET-core\Promote\Indexers_\obj\Debug\netcoreapp3.1\Indexers_.AssemblyInfo.cs
+E:\processing-.NET-core\Promote\Indexers_\obj\Debug\netcoreapp3.1\Indexers_.csproj.CoreCompileInputs.cache
+E:\processing-.NET-core\Promote\Indexers_\obj\Debug\netcoreapp3.1\Indexers_.dll
+E:\processing-.NET-core\Promote\Indexers_\obj\Debug\netcoreapp3.1\Indexers_.pdb
+E:\processing-.NET-core\Promote\Indexers_\obj\Debug\netcoreapp3.1\Indexers_.genruntimeconfig.cache

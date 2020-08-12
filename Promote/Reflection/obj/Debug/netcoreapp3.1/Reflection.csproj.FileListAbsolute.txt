@@ -1,0 +1,13 @@
+E:\processing-.NET-core\Promote\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+E:\processing-.NET-core\Promote\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+E:\processing-.NET-core\Promote\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+E:\processing-.NET-core\Promote\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+E:\processing-.NET-core\Promote\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+E:\processing-.NET-core\Promote\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+E:\processing-.NET-core\Promote\Reflection\obj\Debug\netcoreapp3.1\Reflection.csprojAssemblyReference.cache
+E:\processing-.NET-core\Promote\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+E:\processing-.NET-core\Promote\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+E:\processing-.NET-core\Promote\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+E:\processing-.NET-core\Promote\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+E:\processing-.NET-core\Promote\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+E:\processing-.NET-core\Promote\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache

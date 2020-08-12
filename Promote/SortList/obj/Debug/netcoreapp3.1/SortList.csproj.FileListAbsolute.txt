@@ -1,0 +1,13 @@
+E:\processing-.NET-core\Promote\SortList\bin\Debug\netcoreapp3.1\SortList.exe
+E:\processing-.NET-core\Promote\SortList\bin\Debug\netcoreapp3.1\SortList.deps.json
+E:\processing-.NET-core\Promote\SortList\bin\Debug\netcoreapp3.1\SortList.runtimeconfig.json
+E:\processing-.NET-core\Promote\SortList\bin\Debug\netcoreapp3.1\SortList.runtimeconfig.dev.json
+E:\processing-.NET-core\Promote\SortList\bin\Debug\netcoreapp3.1\SortList.dll
+E:\processing-.NET-core\Promote\SortList\bin\Debug\netcoreapp3.1\SortList.pdb
+E:\processing-.NET-core\Promote\SortList\obj\Debug\netcoreapp3.1\SortList.csprojAssemblyReference.cache
+E:\processing-.NET-core\Promote\SortList\obj\Debug\netcoreapp3.1\SortList.AssemblyInfoInputs.cache
+E:\processing-.NET-core\Promote\SortList\obj\Debug\netcoreapp3.1\SortList.AssemblyInfo.cs
+E:\processing-.NET-core\Promote\SortList\obj\Debug\netcoreapp3.1\SortList.csproj.CoreCompileInputs.cache
+E:\processing-.NET-core\Promote\SortList\obj\Debug\netcoreapp3.1\SortList.dll
+E:\processing-.NET-core\Promote\SortList\obj\Debug\netcoreapp3.1\SortList.pdb
+E:\processing-.NET-core\Promote\SortList\obj\Debug\netcoreapp3.1\SortList.genruntimeconfig.cache

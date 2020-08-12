@@ -1,0 +1,13 @@
+E:\processing-.NET-core\Promote\Attribute\bin\Debug\netcoreapp3.1\Attribute.exe
+E:\processing-.NET-core\Promote\Attribute\bin\Debug\netcoreapp3.1\Attribute.deps.json
+E:\processing-.NET-core\Promote\Attribute\bin\Debug\netcoreapp3.1\Attribute.runtimeconfig.json
+E:\processing-.NET-core\Promote\Attribute\bin\Debug\netcoreapp3.1\Attribute.runtimeconfig.dev.json
+E:\processing-.NET-core\Promote\Attribute\bin\Debug\netcoreapp3.1\Attribute.dll
+E:\processing-.NET-core\Promote\Attribute\bin\Debug\netcoreapp3.1\Attribute.pdb
+E:\processing-.NET-core\Promote\Attribute\obj\Debug\netcoreapp3.1\Attribute.csprojAssemblyReference.cache
+E:\processing-.NET-core\Promote\Attribute\obj\Debug\netcoreapp3.1\Attribute.AssemblyInfoInputs.cache
+E:\processing-.NET-core\Promote\Attribute\obj\Debug\netcoreapp3.1\Attribute.AssemblyInfo.cs
+E:\processing-.NET-core\Promote\Attribute\obj\Debug\netcoreapp3.1\Attribute.csproj.CoreCompileInputs.cache
+E:\processing-.NET-core\Promote\Attribute\obj\Debug\netcoreapp3.1\Attribute.dll
+E:\processing-.NET-core\Promote\Attribute\obj\Debug\netcoreapp3.1\Attribute.pdb
+E:\processing-.NET-core\Promote\Attribute\obj\Debug\netcoreapp3.1\Attribute.genruntimeconfig.cache
